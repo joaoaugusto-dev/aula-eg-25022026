@@ -10,3 +10,4 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 O usuário pode alterar nome, foto e dados pessoais.
 
 ### RF04 — Cadastro de Novos Usuários
+Adicionar cadastro dos usuário e também colocar tipos de usuários
